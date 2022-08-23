@@ -14,4 +14,19 @@ permalink: /reading-history/
 6. _浪潮之巅_ — 吴军 (7.26.2021)
 7. _The Expected Goal Philosophy_ — James Tippet (9.18.2021)
 
+## 2022
+1. _The Why Axis_ – John List (3.28.22)
+2. _The Voltage Effect_ – John List (5.6.2022)
+3. _Crashed_ – Adam Tooze ()
+4. _The World for Sale_ – Javier Blas (5.13.2022)
+5. _The Economics of Inequality_ – Thomas Piketty (6.5.2022)
+6. _预测_ – 洪灏 (6.12.2022)
+7. _Running with Purpose_ – James Weber (7.10.2022)
+8. _Irrational Exuberance_ – Robert Shiller (7.23.2022)
+9. _Poor Charlie’s Almanacs_ – Charlie Munger (8.6.2022)
+10.	_The Model Thinker_ – Scott Page (8.21.2022)
+
+
+
+
 
