@@ -6,7 +6,7 @@ permalink: /reading-history/
 
 ## 2021
 
-1. _Every Town is a Sports Town_ – George Bordenheimer (1.4.2021)
+1. [_Every Town is a Sports Town_](https://www.amazon.com/Every-Town-Sports-Leadership-Boardroom/dp/1455586099) – George Bordenheimer (1.4.2021)
 2. _The Wealth of Nations_ - Adam Smith (1.9.2021）
 3. _Lords of Finance_ — Liaquat Ahamed ()
 4. _区块链：从数字货币到信用社会_ (3.24.21)
@@ -25,6 +25,7 @@ permalink: /reading-history/
 8. _Irrational Exuberance_ – Robert Shiller (7.23.2022)
 9. _Poor Charlie’s Almanacs_ – Charlie Munger (8.6.2022)
 10.	_The Model Thinker_ – Scott Page (8.21.2022)
+11.	_A Brief History of Equality_ – Thomas Piketty (8.27.2022)
 
 
 
