@@ -26,6 +26,7 @@ permalink: /reading-history/
 9. [_Poor Charlie’s Almanacs_](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018/ref=sr_1_1?crid=1I2ST1XFZXQ4F&keywords=poor+charlie%27s+almanack&qid=1661585994&s=books&sprefix=poor+charl%2Cstripbooks%2C373&sr=1-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc){:target="_blank"} – Charlie Munger (8.6.2022)
 10.	[_The Model Thinker_](https://www.amazon.com/Model-Thinker-What-Need-Know/dp/1541675711/ref=sr_1_1?crid=1387TYJZEYRF5&keywords=the+model+thinker&qid=1661586030&s=books&sprefix=the+model+think%2Cstripbooks%2C279&sr=1-1){:target="_blank"} – Scott Page (8.21.2022)
 11.	[_A Brief History of Equality_](https://www.amazon.com/Brief-History-Equality-Thomas-Piketty/dp/0674273559/ref=sr_1_1?crid=2189E4M6HXDZ2&keywords=a+brief+history+of+equality+thomas+piketty&qid=1661586054&s=books&sprefix=a+brief+histor%2Cstripbooks%2C296&sr=1-1){:target="_blank"} – Thomas Piketty (8.27.2022)
+12. [_Order Without Design: How Markets Shape Cities_](https://www.amazon.com/Order-without-Design-Markets-Cities/dp/0262038765){:target="_blank"} - Alain Bertaud (8.30.2022)
 
 
 
