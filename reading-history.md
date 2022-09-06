@@ -3,7 +3,6 @@ layout: page
 title: "Reading History"
 permalink: /reading-history/
 
-
 ## 2021
 
 1. [_Every Town is a Sports Town_](https://www.amazon.com/Every-Town-Sports-Leadership-Boardroom/dp/1455586099){:target="_blank"} – George Bordenheimer (1.4.2021)
@@ -28,6 +27,7 @@ permalink: /reading-history/
 11.	[_A Brief History of Equality_](https://www.amazon.com/Brief-History-Equality-Thomas-Piketty/dp/0674273559/ref=sr_1_1?crid=2189E4M6HXDZ2&keywords=a+brief+history+of+equality+thomas+piketty&qid=1661586054&s=books&sprefix=a+brief+histor%2Cstripbooks%2C296&sr=1-1){:target="_blank"} – Thomas Piketty (8.27.2022)
 12. [_Order Without Design: How Markets Shape Cities_](https://www.amazon.com/Order-without-Design-Markets-Cities/dp/0262038765){:target="_blank"} - Alain Bertaud (8.30.2022)
 13. [_The Most Important Thing_](https://www.amazon.com/Most-Important-Thing-Illuminated-Thoughtful/dp/0231162847/ref=pd_lpo_2?pd_rd_i=0231162847&psc=1){:target="_blank"} - Howard Marks (9.3.2022)
+14. [_Safe Haven: Investing for Financial Storms_](https://www.amazon.com/Safe-Haven-Investing-Financial-Storms/dp/1119401798){:target="_blank"} - Mark Spitznagel (9.6.2022)
 
 
 
