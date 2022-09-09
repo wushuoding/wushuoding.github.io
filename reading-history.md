@@ -28,6 +28,7 @@ permalink: /reading-history/
 12. [_Order Without Design: How Markets Shape Cities_](https://www.amazon.com/Order-without-Design-Markets-Cities/dp/0262038765){:target="_blank"} - Alain Bertaud (8.30.2022)
 13. [_The Most Important Thing_](https://www.amazon.com/Most-Important-Thing-Illuminated-Thoughtful/dp/0231162847/ref=pd_lpo_2?pd_rd_i=0231162847&psc=1){:target="_blank"} - Howard Marks (9.3.2022)
 14. [_Safe Haven: Investing for Financial Storms_](https://www.amazon.com/Safe-Haven-Investing-Financial-Storms/dp/1119401798){:target="_blank"} - Mark Spitznagel (9.6.2022)
+15. [_Adaptive Markets: Financial Evolution at the Speed of Thought_](https://www.amazon.com/Adaptive-Markets-Financial-Evolution-Thought/dp/0691135142){:target="_blank"} - Andrew Lo (9.10.2022)
 
 
 
