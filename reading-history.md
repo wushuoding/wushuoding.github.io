@@ -30,7 +30,7 @@ permalink: /reading-history/
 14. [_Safe Haven_](https://www.amazon.com/Safe-Haven-Investing-Financial-Storms/dp/1119401798){:target="_blank"} - Mark Spitznagel (9.6.2022)
 15. [_Adaptive Markets_](https://www.amazon.com/Adaptive-Markets-Financial-Evolution-Thought/dp/0691135142){:target="_blank"} - Andrew Lo (9.10.2022)
 16. [_The Bond King_](https://www.amazon.com/Bond-King-Market-Built-Empire/dp/1250120845){:target="_blank"} - Mary Child (9.15.2022)
-
+17. [_Fault Lines_](https://www.amazon.fr/Fault-Lines-Fractures-Threaten-Economy/dp/0691152632){:target="_blank"} - Raghuram Rajan (9.15.2022)
 
 
 
