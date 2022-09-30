@@ -33,5 +33,5 @@ permalink: /reading-history/
 17. [_Fault Lines_](https://www.amazon.fr/Fault-Lines-Fractures-Threaten-Economy/dp/0691152632){:target="_blank"} - Raghuram Rajan (9.15.2022)
 18. [_Fed Up_](https://www.amazon.com/Fed-Up-Insiders-Federal-Reserve/dp/0735211655){:target="_blank"} - Danielle DiMartino Booth (9.24.2022)
 19. [_Utopia_](https://en.wikipedia.org/wiki/Utopia_(book)){:target="_blank"} - Thomas More (9.29.2022)
-
+20. [_Hanfeizi - Basic Writings_](https://www.amazon.com/Han-Feizi-Writings-Translations-Classics/dp/0231129696){:target="_blank"} - Burtson Watson (9.30.2022)
 
