@@ -35,3 +35,4 @@ permalink: /reading-history/
 19. [_Utopia_](https://en.wikipedia.org/wiki/Utopia_(book)){:target="_blank"} - Thomas More (9.29.2022)
 20. [_Hanfeizi - Basic Writings_](https://www.amazon.com/Han-Feizi-Writings-Translations-Classics/dp/0231129696){:target="_blank"} - Burtson Watson (9.30.2022)
 21. [_The Power of Crisis_](https://www.amazon.com/Power-Crisis-Threats-Response-Change/dp/1982167505){:target="_blank"} - Ian Bremmer (10.12.2022)
+22. [_Big Data and AI Strategies_](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/2/51/files/2018/05/JPM-2017-MachineLearningInvestments.pdf){:target="_blank"} - J.P. Morgan (10.20.2022)
