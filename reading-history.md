@@ -36,3 +36,4 @@ permalink: /reading-history/
 20. [_The Power of Crisis_](https://www.amazon.com/Power-Crisis-Threats-Response-Change/dp/1982167505){:target="_blank"} - Ian Bremmer (10.12.2022)
 21. [_Big Data and AI Strategies_](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/2/51/files/2018/05/JPM-2017-MachineLearningInvestments.pdf){:target="_blank"} - J.P. Morgan (10.20.2022)
 22. [_Crashed_](https://www.amazon.com/Crashed-Decade-Financial-Crises-Changed/dp/0670024937){:target="_blank"} – Adam Tooze (11.11.2022)
+23. [_Complexity_](https://www.amazon.com/Complexity-Emerging-Science-Order-Chaos-ebook/dp/B07WVV5J2R){:target="_blank"} – M. Mitchell Waldrop (11.17.2022)
