@@ -5,10 +5,10 @@ permalink: /reading-history/
 
 ### The hyperlinks below (title *italicized*) leads to my reading notes stored on OneDrive. If no hyperlink available, no note is available
 
-## Ongoing
-1. **Debt** - David Graeber ()
-2. **Trade Wars are Class Wars** - Michael Pettis and Matthew Klein ()
-3. **Lords of Finance** — Liaquat Ahamed ()
+## Ongoing (progress)
+1. **Debt** - David Graeber (70%)
+2. **Trade Wars are Class Wars** - Michael Pettis and Matthew Klein (10%)
+3. **Lords of Finance** — Liaquat Ahamed (30%)
 
 ## 2021
 
