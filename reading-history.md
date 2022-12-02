@@ -3,7 +3,7 @@ layout: page
 title: "Reading History"
 permalink: /reading-history/
 
-### *The hyperlinks below (title italicized) leads to my reading notes stored on OneDrive. If no hyperlink available, no note is available*
+### The hyperlinks below (title *italicized*) leads to my reading notes stored on OneDrive. If no hyperlink available, no note is available
 
 ## 2021
 
