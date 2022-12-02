@@ -5,15 +5,19 @@ permalink: /reading-history/
 
 ### The hyperlinks below (title *italicized*) leads to my reading notes stored on OneDrive. If no hyperlink available, no note is available
 
+## Ongoing
+1. **Debt** - David Graeber ()
+2. **Trade Wars are Class Wars** - Michael Pettis and Matthew Klein ()
+3. **Lords of Finance** — Liaquat Ahamed ()
+
 ## 2021
 
 1. **Every Town is a Sports Town** – George Bordenheimer (1.4.2021)
 2. **The Wealth of Nations** - Adam Smith (1.9.2021）
-3. **Lords of Finance** — Liaquat Ahamed ()
-4. **区块链：从数字货币到信用社会** - 长铗，韩锋，等 (3.24.21)
-5. **Uncommon Grounds: A History of Coffee and How it Transformed the World** – Mark Pendergrast (6.13.2021)
-6. [_**浪潮之巅**_](https://1drv.ms/b/s!Aku7aHdTrRXEcuwSnladdD2ZMi8?e=qmmxZy){:target="_blank"} — 吴军 (7.26.2021)
-7. **The Expected Goal Philosophy** — James Tippet (9.18.2021)
+3. **区块链：从数字货币到信用社会** - 长铗，韩锋，等 (3.24.21)
+4. **Uncommon Grounds: A History of Coffee and How it Transformed the World** – Mark Pendergrast (6.13.2021)
+5. [_**浪潮之巅**_](https://1drv.ms/b/s!Aku7aHdTrRXEcuwSnladdD2ZMi8?e=qmmxZy){:target="_blank"} — 吴军 (7.26.2021)
+6. **The Expected Goal Philosophy** — James Tippet (9.18.2021)
 
 ## 2022
 1. **The Why Axis** – John List (3.28.22)
@@ -39,3 +43,4 @@ permalink: /reading-history/
 21. **Big Data and AI Strategies** - J.P. Morgan (10.20.2022)
 22. [_**Crashed**_](https://1drv.ms/b/s!Aku7aHdTrRXEdHR0tvJycZcu0K8?e=ThE5Ya){:target="_blank"} – Adam Tooze (11.11.2022)
 23. **Complexity** – M. Mitchell Waldrop (11.17.2022)
+
