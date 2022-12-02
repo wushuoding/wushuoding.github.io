@@ -3,18 +3,20 @@ layout: page
 title: "Reading History"
 permalink: /reading-history/
 
+*the hyperlink leads to my reading notes. If no hyperlink available, no note is available*
+
 ## 2021
 
-1. [_Every Town is a Sports Town_](https://www.amazon.com/Every-Town-Sports-Leadership-Boardroom/dp/1455586099){:target="_blank"} – George Bordenheimer (1.4.2021)
-2. [_The Wealth of Nations_](https://www.amazon.com/Wealth-Nations-Adam-Smith/dp/1505577128){:target="_blank"} - Adam Smith (1.9.2021）
-3. [_Lords of Finance_](https://www.amazon.com/Lords-Finance-Bankers-Broke-World/dp/0143116800){:target="_blank"} — Liaquat Ahamed ()
-4. [_区块链：从数字货币到信用社会_](https://e.jd.com/30292869.html){:target="_blank"} - 长铗，韩锋，等(3.24.21)
-5. [_Uncommon Grounds: A History of Coffee and How it Transformed the World_](https://www.amazon.com/Uncommon-Grounds-History-Coffee-Transformed/dp/046501836X){:target="_blank"} – Mark Pendergrast (6.13.2021)
-6. [_浪潮之巅_](https://item.jd.com/12626736.html){:target="_blank"} — 吴军 (7.26.2021)
-7. [_The Expected Goal Philosophy_](https://www.amazon.com/Expected-Goals-Philosophy-Game-Changing-Analysing/dp/1089883188){:target="_blank"} — James Tippet (9.18.2021)
+1. **Every Town is a Sports Town** – George Bordenheimer (1.4.2021)
+2. **The Wealth of Nations** - Adam Smith (1.9.2021）
+3. **Lords of Finance** — Liaquat Ahamed ()
+4. **区块链：从数字货币到信用社会** - 长铗，韩锋，等 (3.24.21)
+5. **Uncommon Grounds: A History of Coffee and How it Transformed the World** – Mark Pendergrast (6.13.2021)
+6. [_**浪潮之巅**_](https://1drv.ms/b/s!Aku7aHdTrRXEcuwSnladdD2ZMi8?e=qmmxZy){:target="_blank"} — 吴军 (7.26.2021)
+7. **The Expected Goal Philosophy** — James Tippet (9.18.2021)
 
 ## 2022
-1. [_The Why Axis_](https://www.amazon.com/Why-Axis-Undiscovered-Economics-Everyday/dp/1610393112){:target="_blank"} – John List (3.28.22)
+1. **The Why Axis** – John List (3.28.22)
 2. [_The Voltage Effect_](https://www.amazon.com/Voltage-Effect-Ideas-Great-Scale/dp/0593239482/ref=pd_lpo_1?pd_rd_i=0593239482&psc=1){:target="_blank"} – John List (5.6.2022)
 3. [_The World for Sale_](https://www.amazon.com/World-Sale-Javier-Blas/dp/0190078952){:target="_blank"} – Javier Blas (5.13.2022)
 4. [_The Economics of Inequality_](https://www.amazon.com/Economics-Inequality-Thomas-Piketty/dp/0674504801/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=){:target="_blank"} – Thomas Piketty (6.5.2022)
@@ -25,7 +27,7 @@ permalink: /reading-history/
 9.	[_The Model Thinker_](https://www.amazon.com/Model-Thinker-What-Need-Know/dp/1541675711/ref=sr_1_1?crid=1387TYJZEYRF5&keywords=the+model+thinker&qid=1661586030&s=books&sprefix=the+model+think%2Cstripbooks%2C279&sr=1-1){:target="_blank"} – Scott Page (8.21.2022)
 10.	[_A Brief History of Equality_](https://www.amazon.com/Brief-History-Equality-Thomas-Piketty/dp/0674273559/ref=sr_1_1?crid=2189E4M6HXDZ2&keywords=a+brief+history+of+equality+thomas+piketty&qid=1661586054&s=books&sprefix=a+brief+histor%2Cstripbooks%2C296&sr=1-1){:target="_blank"} – Thomas Piketty (8.27.2022)
 11. [_Order Without Design_](https://www.amazon.com/Order-without-Design-Markets-Cities/dp/0262038765){:target="_blank"} - Alain Bertaud (8.30.2022)
-12. [_The Most Important Thing_](https://1drv.ms/b/s!Aku7aHdTrRXEcT5joXkSmoQ7-Yg?e=6GXddk){:target="_blank"} - Howard Marks (9.3.2022)
+12. _The Most Important Thing_(https://1drv.ms/b/s!Aku7aHdTrRXEcT5joXkSmoQ7-Yg?e=6GXddk){:target="_blank"} - Howard Marks (9.3.2022)
 13. [_Safe Haven_](https://www.amazon.com/Safe-Haven-Investing-Financial-Storms/dp/1119401798){:target="_blank"} - Mark Spitznagel (9.6.2022)
 14. [_Adaptive Markets_](https://www.amazon.com/Adaptive-Markets-Financial-Evolution-Thought/dp/0691135142){:target="_blank"} - Andrew Lo (9.10.2022)
 15. [_The Bond King_](https://www.amazon.com/Bond-King-Market-Built-Empire/dp/1250120845){:target="_blank"} - Mary Child (9.15.2022)
