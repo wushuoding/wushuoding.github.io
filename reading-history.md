@@ -6,7 +6,6 @@ permalink: /reading-history/
 ### The hyperlinks below (title *italicized*) leads to my reading notes stored on OneDrive. If no hyperlink available, no note is available
 
 ## Ongoing (progress)
-1. **Debt** - David Graeber (70%)
 2. **Trade Wars are Class Wars** - Michael Pettis and Matthew Klein (10%)
 3. **Lords of Finance** — Liaquat Ahamed (30%)
 
@@ -43,4 +42,5 @@ permalink: /reading-history/
 21. **Big Data and AI Strategies** - J.P. Morgan (10.20.2022)
 22. [_**Crashed**_](https://1drv.ms/b/s!Aku7aHdTrRXEdHR0tvJycZcu0K8?e=ThE5Ya){:target="_blank"} – Adam Tooze (11.11.2022)
 23. **Complexity** – M. Mitchell Waldrop (11.17.2022)
+24. **Debt** - David Graeber (12.18.2022)
 
