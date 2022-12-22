@@ -6,17 +6,16 @@ permalink: /reading-history/
 ### The hyperlinks below (title *italicized*) leads to my reading notes stored on OneDrive. If no hyperlink available, no note is available
 
 ## Ongoing (progress)
-2. **Trade Wars are Class Wars** - Michael Pettis and Matthew Klein (10%)
-3. **Lords of Finance** — Liaquat Ahamed (30%)
+1. Trade Wars are Class Wars - Michael Pettis and Matthew Klein (50%)
 
 ## 2021
 
-1. **Every Town is a Sports Town** – George Bordenheimer (1.4.2021)
-2. **The Wealth of Nations** - Adam Smith (1.9.2021）
-3. **区块链：从数字货币到信用社会** - 长铗，韩锋，等 (3.24.21)
-4. **Uncommon Grounds: A History of Coffee and How it Transformed the World** – Mark Pendergrast (6.13.2021)
-5. [_**浪潮之巅**_](https://1drv.ms/b/s!Aku7aHdTrRXEcuwSnladdD2ZMi8?e=qmmxZy){:target="_blank"} — 吴军 (7.26.2021)
-6. **The Expected Goal Philosophy** — James Tippet (9.18.2021)
+1. Every Town is a Sports Town – George Bordenheimer (1.4.2021)
+2. The Wealth of Nations - Adam Smith (1.9.2021）
+3. 区块链：从数字货币到信用社会 - 长铗，韩锋，等 (3.24.21)
+4. Uncommon Grounds: A History of Coffee and How it Transformed the World – Mark Pendergrast (6.13.2021)
+5. [_浪潮之巅_](https://1drv.ms/b/s!Aku7aHdTrRXEcuwSnladdD2ZMi8?e=qmmxZy){:target="_blank"} — 吴军 (7.26.2021)
+6. The Expected Goal Philosophy — James Tippet (9.18.2021)
 
 ## 2022
 1. **The Why Axis** – John List (3.28.22)
