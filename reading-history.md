@@ -6,7 +6,7 @@ permalink: /reading-history/
 The hyperlinks below (title *italicized*) leads to my reading notes stored on OneDrive.
 
 ## Ongoing (progress)
-1. Trade Wars are Class Wars - Michael Pettis and Matthew Klein (50%)
+1. Mastering the Market Cycle - Howard Marks (0%; started Dec. 23 2022)
 
 ## 2021
 
@@ -42,4 +42,4 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 22. [_Crashed_](https://1drv.ms/b/s!Aku7aHdTrRXEdHR0tvJycZcu0K8?e=ThE5Ya){:target="_blank"} – Adam Tooze (11.11.2022)
 23. Complexity – M. Mitchell Waldrop (11.17.2022)
 24. [_Debt_](https://1drv.ms/b/s!Aku7aHdTrRXEf_nFZULu8VWPLxY?e=sfrepa){:target="_blank"} - David Graeber (12.18.2022)
-
+25. [_Trade Wars are Class Wars_](https://1drv.ms/b/s!Aku7aHdTrRXEgQCrpQJAZFgMtJl0?e=NwI5MN){:target="_blank"} - Michael Pettis and Matthew Klein (12.23.2022)
