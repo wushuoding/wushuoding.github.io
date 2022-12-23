@@ -41,5 +41,5 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 21. Big Data and AI Strategies - J.P. Morgan (10.20.2022)
 22. [_Crashed_](https://1drv.ms/b/s!Aku7aHdTrRXEdHR0tvJycZcu0K8?e=ThE5Ya){:target="_blank"} – Adam Tooze (11.11.2022)
 23. Complexity – M. Mitchell Waldrop (11.17.2022)
-24. Debt - David Graeber (12.18.2022)
+24. [_Debt_](https://1drv.ms/b/s!Aku7aHdTrRXEf_nFZULu8VWPLxY?e=sfrepa){:target="_blank"} - David Graeber (12.18.2022)
 
