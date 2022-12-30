@@ -44,4 +44,4 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 24. [_Debt_](https://1drv.ms/b/s!Aku7aHdTrRXEf_nFZULu8VWPLxY?e=sfrepa){:target="_blank"} - David Graeber (12.18.2022)
 25. [_Trade Wars are Class Wars_](https://1drv.ms/b/s!Aku7aHdTrRXEgQCrpQJAZFgMtJl0?e=NwI5MN){:target="_blank"} - Michael Pettis and Matthew Klein (12.23.2022)
 26. [_Mastering the Market Cycle_](https://1drv.ms/b/s!Aku7aHdTrRXEgQHODg1xcQAU_sJ6?e=O3bDgj){:target="_blank"} - Howard Marks (12.24.2022)
-27. [_Leveraged_] - Mortiz Schularick (12.30.2022)
+27. [_Leveraged_](https://1drv.ms/b/s!Aku7aHdTrRXEgQXiqnqELP6TJTK1?e=ya5VsB){:target="_blank"} - Moritz Schularick (12.30.2022)
