@@ -6,16 +6,11 @@ permalink: /reading-history/
 The hyperlinks below (title *italicized*) leads to my reading notes stored on OneDrive.
 
 ## Ongoing (progress)
+1. The Prize - Daniel Yergin. Started 1.10.2022.
 
-
-## 2021
-
-1. Every Town is a Sports Town – George Bordenheimer (1.4.2021)
-2. The Wealth of Nations - Adam Smith (1.9.2021）
-3. 区块链：从数字货币到信用社会 - 长铗，韩锋，等 (3.24.21)
-4. Uncommon Grounds: A History of Coffee and How it Transformed the World – Mark Pendergrast (6.13.2021)
-5. [_浪潮之巅_](https://1drv.ms/b/s!Aku7aHdTrRXEcuwSnladdD2ZMi8?e=qmmxZy){:target="_blank"} — 吴军 (7.26.2021)
-6. The Expected Goal Philosophy — James Tippet (9.18.2021)
+## 2023
+1. 大国空巢 - 易富贤 (1.2.2022)
+2. [_Crude Volatility_](https://1drv.ms/b/s!Aku7aHdTrRXEgQZNYvG_rm6njY0u?e=UWBnGy) - Bob McNally (1.9.2022)
 
 ## 2022
 1. The Why Axis – John List (3.28.22)
@@ -46,5 +41,11 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 26. [_Mastering the Market Cycle_](https://1drv.ms/b/s!Aku7aHdTrRXEgQHODg1xcQAU_sJ6?e=O3bDgj){:target="_blank"} - Howard Marks (12.24.2022)
 27. [_Leveraged_](https://1drv.ms/b/s!Aku7aHdTrRXEgQXiqnqELP6TJTK1?e=ya5VsB){:target="_blank"} - Moritz Schularick (12.30.2022)
 
-## 2023
-1. 大国空巢 - 易富贤 (1.2.2022)
+## 2021
+1. Every Town is a Sports Town – George Bordenheimer (1.4.2021)
+2. The Wealth of Nations - Adam Smith (1.9.2021）
+3. 区块链：从数字货币到信用社会 - 长铗，韩锋，等 (3.24.21)
+4. Uncommon Grounds: A History of Coffee and How it Transformed the World – Mark Pendergrast (6.13.2021)
+5. [_浪潮之巅_](https://1drv.ms/b/s!Aku7aHdTrRXEcuwSnladdD2ZMi8?e=qmmxZy){:target="_blank"} — 吴军 (7.26.2021)
+6. The Expected Goal Philosophy — James Tippet (9.18.2021)
+
