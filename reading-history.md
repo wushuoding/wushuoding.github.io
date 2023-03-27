@@ -6,12 +6,13 @@ permalink: /reading-history/
 The hyperlinks below (title *italicized*) leads to my reading notes stored on OneDrive.
 
 ## Ongoing (progress)
-1. The Prize - Daniel Yergin. Started 1.10.2022.
+1. The Dao of Capital - Mark Spitznagel
 
 ## 2023
-1. 大国空巢 - 易富贤 (1.2.2022)
-2. [_Crude Volatility_](https://1drv.ms/b/s!Aku7aHdTrRXEgQZNYvG_rm6njY0u?e=UWBnGy) - Bob McNally (1.9.2022)
-3. [_Plagues and Peoples_](https://1drv.ms/b/s!Aku7aHdTrRXEgQfZY8pncQvobXJg?e=P8eYkc) - William McNeil (1.12.2022)
+1. 大国空巢 - 易富贤 (1.2.2023)
+2. [_Crude Volatility_](https://1drv.ms/b/s!Aku7aHdTrRXEgQZNYvG_rm6njY0u?e=UWBnGy) - Bob McNally (1.9.2023)
+3. [_Plagues and Peoples_](https://1drv.ms/b/s!Aku7aHdTrRXEgQfZY8pncQvobXJg?e=P8eYkc) - William McNeil (1.12.2023)
+4. [_The Prize_](https://1drv.ms/b/s!Aku7aHdTrRXEgQgKLpo_gZCQU66H?e=KDNDnN) - Daniel Yergin (3.27.2023)
 
 ## 2022
 1. The Why Axis – John List (3.28.22)
