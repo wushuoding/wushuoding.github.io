@@ -8,13 +8,13 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 ## Ongoing (progress)
 1. The Dao of Capital - Mark Spitznagel
 
-## 2023
+## 2023 (4)
 1. 大国空巢 - 易富贤 (1.2.2023)
 2. [_Crude Volatility_](https://1drv.ms/b/s!Aku7aHdTrRXEgQZNYvG_rm6njY0u?e=UWBnGy) - Bob McNally (1.9.2023)
 3. [_Plagues and Peoples_](https://1drv.ms/b/s!Aku7aHdTrRXEgQfZY8pncQvobXJg?e=P8eYkc) - William McNeil (1.12.2023)
 4. [_The Prize_](https://1drv.ms/b/s!Aku7aHdTrRXEgQgKLpo_gZCQU66H?e=KDNDnN) - Daniel Yergin (3.27.2023)
 
-## 2022
+## 2022 (27)
 1. The Why Axis – John List (3.28.22)
 2. The Voltage Effect – John List (5.6.2022)
 3. The World for Sale – Javier Blas (5.13.2022)
@@ -43,11 +43,24 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 26. [_Mastering the Market Cycle_](https://1drv.ms/b/s!Aku7aHdTrRXEgQHODg1xcQAU_sJ6?e=O3bDgj){:target="_blank"} - Howard Marks (12.24.2022)
 27. [_Leveraged_](https://1drv.ms/b/s!Aku7aHdTrRXEgQXiqnqELP6TJTK1?e=ya5VsB){:target="_blank"} - Moritz Schularick (12.30.2022)
 
-## 2021
+## 2021 (6)
 1. Every Town is a Sports Town – George Bordenheimer (1.4.2021)
 2. The Wealth of Nations - Adam Smith (1.9.2021）
 3. 区块链：从数字货币到信用社会 - 长铗，韩锋，等 (3.24.21)
 4. Uncommon Grounds: A History of Coffee and How it Transformed the World – Mark Pendergrast (6.13.2021)
 5. [_浪潮之巅_](https://1drv.ms/b/s!Aku7aHdTrRXEcuwSnladdD2ZMi8?e=qmmxZy){:target="_blank"} — 吴军 (7.26.2021)
 6. The Expected Goal Philosophy — James Tippet (9.18.2021)
+
+<details>
+<summary> ## 2020 (8) </summary>
+<br>
+1. 失去的二十年 – Nobuo Ikeda (5.30.2020)
+2. Japan as Number One - Ezra Feivel Vogel (6.1.2020)
+3. The Dictator's Handbook - Bruce Bueno de Mesquita (6.3.2020)
+4. The Chicago School - Johan Van Overtveldt (6.5.2020)
+5. The Black Swan - Nassim Nicholas Taleb (6.25.2020)
+6. 数学之美 — 吴军 (7.2.2020)
+7. The Quants - Scott Paterson (7.8.2020)
+8. Steppenwolf - Herman Hesse (7.14.2020)
+</details>
 
