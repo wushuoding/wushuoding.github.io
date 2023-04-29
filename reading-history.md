@@ -52,15 +52,17 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 6. The Expected Goal Philosophy — James Tippet (9.18.2021)
 
 <details>
-<summary> ## 2020 (8) </summary>
+<summary> 2020: 8 </summary>
 <br>
-1. 失去的二十年 – Nobuo Ikeda (5.30.2020)
-2. Japan as Number One - Ezra Feivel Vogel (6.1.2020)
-3. The Dictator's Handbook - Bruce Bueno de Mesquita (6.3.2020)
-4. The Chicago School - Johan Van Overtveldt (6.5.2020)
-5. The Black Swan - Nassim Nicholas Taleb (6.25.2020)
-6. 数学之美 — 吴军 (7.2.2020)
-7. The Quants - Scott Paterson (7.8.2020)
-8. Steppenwolf - Herman Hesse (7.14.2020)
+| #  | Title                 | Author                | Date       |
+|----|-----------------------|-----------------------|------------|
+| 1  | 失去的二十年         | Nobuo Ikeda           | 5.30.2020  |
+| 2  | Japan as Number One   | Ezra Feivel Vogel     | 6.1.2020   |
+| 3  | The Dictator's Handbook | Bruce Bueno de Mesquita | 6.3.2020  |
+| 4  | The Chicago School    | Johan Van Overtveldt  | 6.5.2020   |
+| 5  | The Black Swan        | Nassim Nicholas Taleb | 6.25.2020  |
+| 6  | 数学之美             | 吴军                  | 7.2.2020   |
+| 7  | The Quants            | Scott Paterson        | 7.8.2020   |
+| 8  | Steppenwolf           | Herman Hesse          | 7.14.2020  |
 </details>
 
