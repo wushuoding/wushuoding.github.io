@@ -1,9 +1,13 @@
 
+---
 layout: page
 title: "Reading History"
 permalink: /reading-history/
+---
 
 The hyperlinks below (title *italicized*) leads to my reading notes stored on OneDrive.
+
+[2020](#2020-table)
 
 ## Ongoing (progress)
 1. The Dao of Capital - Mark Spitznagel
@@ -51,20 +55,20 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 5. [_浪潮之巅_](https://1drv.ms/b/s!Aku7aHdTrRXEcuwSnladdD2ZMi8?e=qmmxZy){:target="_blank"} — 吴军 (7.26.2021)
 6. The Expected Goal Philosophy — James Tippet (9.18.2021)
 
-<details>
-  <summary style="font-weight: bold; font-size: 1.2em; color: #2b6cb0; cursor: pointer;">2020: 8</summary>
 
-  | #  | Title                 | Author                | Date       |
-  |----|-----------------------|-----------------------|------------|
-  | 1  | 失去的二十年         | Nobuo Ikeda           | 5.30.2020  |
-  | 2  | Japan as Number One   | Ezra Feivel Vogel     | 6.1.2020   |
-  | 3  | The Dictator's Handbook | Bruce Bueno de Mesquita | 6.3.2020  |
-  | 4  | The Chicago School    | Johan Van Overtveldt  | 6.5.2020   |
-  | 5  | The Black Swan        | Nassim Nicholas Taleb | 6.25.2020  |
-  | 6  | 数学之美             | 吴军                  | 7.2.2020   |
-  | 7  | The Quants            | Scott Paterson        | 7.8.2020   |
-  | 8  | Steppenwolf           | Herman Hesse          | 7.14.2020  |
+<summary style="font-weight: bold; font-size: 1.2em; color: #2b6cb0; cursor: pointer;">2020</summary>
 
-</details>
+<a name="2020-table"></a>
+
+| #  | Title                 | Author                | Date       |
+|----|-----------------------|-----------------------|------------|
+| 1  | 失去的二十年         | Nobuo Ikeda           | 5.30.2020  |
+| 2  | Japan as Number One   | Ezra Feivel Vogel     | 6.1.2020   |
+| 3  | The Dictator's Handbook | Bruce Bueno de Mesquita | 6.3.2020  |
+| 4  | The Chicago School    | Johan Van Overtveldt  | 6.5.2020   |
+| 5  | The Black Swan        | Nassim Nicholas Taleb | 6.25.2020  |
+| 6  | 数学之美             | 吴军                  | 7.2.2020   |
+| 7  | The Quants            | Scott Paterson        | 7.8.2020   |
+| 8  | Steppenwolf           | Herman Hesse          | 7.14.2020  |
 
 
