@@ -10,10 +10,10 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 ### [2020](#2020-table): 8
 ### [2021](#2021-table): 6
 ### [2022](#2022-table): 27
-### [2023](#2023-table): 4
+### [2023](#2023-table): 5
 
 ## Ongoing (progress)
-1. The Dao of Capital - Mark Spitznagel
+1. Trillion Dollar Triage -- Nick Timiraos
 
 <a name="2023-table"></a>
 
@@ -25,6 +25,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 | 2  | [_Crude Volatility_](https://1drv.ms/b/s!Aku7aHdTrRXEgQZNYvG_rm6njY0u?e=UWBnGy){:target="_blank"} | Bob McNally                        | 1.9.2023   |
 | 3  | [_Plagues and Peoples_](https://1drv.ms/b/s!Aku7aHdTrRXEgQfZY8pncQvobXJg?e=P8eYkc){:target="_blank"} | William McNeil                    | 1.12.2023  |
 | 4  | [_The Prize_](https://1drv.ms/b/s!Aku7aHdTrRXEgQgKLpo_gZCQU66H?e=KDNDnN){:target="_blank"} | Daniel Yergin                      | 3.27.2023  |
+| 5  | [_The Dao of Capital_](https://1drv.ms/b/s!Aku7aHdTrRXEgRcRJ4VI-zkiuPY_){:target="_blank"} | Mark Spitznagel                      | 5.18.2023  |
 
 <a name="2022-table"></a>
 
