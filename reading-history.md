@@ -26,6 +26,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 | 5  | [_The Dao of Capital_](https://1drv.ms/b/s!Aku7aHdTrRXEgRcRJ4VI-zkiuPY_){:target="_blank"} | Mark Spitznagel                      | 5.18.2023  |
 | 6  | The Joy of Sweat                        | Sarah Everts                                | 6.2.2023   |
 | 7  | Trillion Dollar Triage             | Nick Timiraos                                | 6.3.2023   |
+| 8  | The Big Con             | Mariana Mazzucato and Rosie Collington                     | 7.10.2023   |
 
 <a name="2022-table"></a>
 
