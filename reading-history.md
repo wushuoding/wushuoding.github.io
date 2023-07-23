@@ -8,9 +8,11 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 ### [2020](#2020-table): 8
 ### [2021](#2021-table): 6
 ### [2022](#2022-table): 27
-### [2023](#2023-table): 7
+### [2023](#2023-table): 9
 
 ## Ongoing (progress)
+1. The Ruble - Pravilova
+2. Power and Progress - Aemoglu and Johnson
 
 
 <a name="2023-table"></a>
@@ -27,6 +29,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 | 6  | The Joy of Sweat                        | Sarah Everts                                | 6.2.2023   |
 | 7  | Trillion Dollar Triage             | Nick Timiraos                                | 6.3.2023   |
 | 8  | The Big Con             | Mariana Mazzucato and Rosie Collington                     | 7.10.2023   |
+| 9  | Risky Business           | Amy Finkelstein, Liran Einav, and Raymond Fisman           | 7.23.2023   |
 
 <a name="2022-table"></a>
 
