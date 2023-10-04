@@ -8,11 +8,11 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 ### [2020](#2020-table): 8
 ### [2021](#2021-table): 6
 ### [2022](#2022-table): 27
-### [2023](#2023-table): 11
+### [2023](#2023-table): 12
 
 ## Ongoing (progress)
-1. Speed and Scale - John Doerr
-2. Pioneering Portfolio Management - David F. Swensen
+1. Pioneering Portfolio Management - David F. Swensen
+2. Slouching Towards Utopia - J. Bradford DeLong
 
 
 <a name="2023-table"></a>
@@ -32,6 +32,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 | 9  | Risky Business           | Amy Finkelstein, Liran Einav, and Raymond Fisman           | 7.23.2023   |
 | 10  | Power and Progress           | Daron Acemoglu, Simon Johnson           | 9.10.2023   |
 | 11  | An Engine, Not a Camera           | Donald Mackenzie           | 9.27.2023   |
+| 12  | Speed and Scale           | John Doerr           | 10.4.2023   |
 
 <a name="2022-table"></a>
 
