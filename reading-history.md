@@ -11,7 +11,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 ### [2023](#2023-table): 12
 
 ## Ongoing (progress)
-1. Pioneering Portfolio Management - David F. Swensen
+1. The Road to Serfdom - Friedrich Hayek
 2. Slouching Towards Utopia - J. Bradford DeLong
 
 
@@ -33,6 +33,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 | 10  | Power and Progress           | Daron Acemoglu, Simon Johnson           | 9.10.2023   |
 | 11  | An Engine, Not a Camera           | Donald Mackenzie           | 9.27.2023   |
 | 12  | Speed and Scale           | John Doerr           | 10.4.2023   |
+| 13  | Pioneering Portfolio Management           | David F. Swensen           | 10.9.2023   |
 
 <a name="2022-table"></a>
 
