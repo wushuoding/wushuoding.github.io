@@ -37,6 +37,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 | 13  | Pioneering Portfolio Management           | David F. Swensen           | 10.9.2023   |
 | 14  | Slouching Towards Utopia           | J. Bradford DeLong           | 10.13.2023   |
 | 15 | Fossil Future | Alex Epstein | 10.18.2023|
+| 16 | Margin of Safety | Seth Klarman | 11.12.2023|
 
 <a name="2022-table"></a>
 
