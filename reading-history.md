@@ -8,7 +8,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 ### [2020](#2020-table): 8
 ### [2021](#2021-table): 6
 ### [2022](#2022-table): 27
-### [2023](#2023-table): 15
+### [2023](#2023-table): 17
 
 ## Ongoing (progress)
 1. The Road to Serfdom - Friedrich Hayek
