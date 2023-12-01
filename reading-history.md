@@ -38,6 +38,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 | 14  | Slouching Towards Utopia           | J. Bradford DeLong           | 10.13.2023   |
 | 15 | Fossil Future | Alex Epstein | 10.18.2023|
 | 16 | Margin of Safety | Seth Klarman | 11.12.2023|
+| 17 | Lord of Finance | Liaquat Ahamed | 12.1.2023|
 
 <a name="2022-table"></a>
 
