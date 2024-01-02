@@ -8,13 +8,17 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 ### [2020](#2020-table): 8
 ### [2021](#2021-table): 6
 ### [2022](#2022-table): 27
-### [2023](#2023-table): 17
+### [2023](#2023-table): 19
+### [2024](#2024-table): 0
 
 ## Ongoing (progress)
 1. The Road to Serfdom - Friedrich Hayek
 2. The Dollar Trap - Eswar Prasad
 3. Systematic Investing in Credit - Lev Dynkin, Arik Ben Dor, Jay Hyman, Simon Polbennikov, Albert Desclee
 
+<a name="2024-table"></a>
+
+### 2024
 
 <a name="2023-table"></a>
 
@@ -40,6 +44,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 | 16 | Margin of Safety | Seth Klarman | 11.12.2023|
 | 17 | Lord of Finance | Liaquat Ahamed | 12.1.2023|
 | 18 | The Man Who Solved the Market | Gregory Zuckerman | 12.9.2023|
+| 19 | Statistical Arbitrage | Andrew Pole | 12.29.2023|
 
 <a name="2022-table"></a>
 
