@@ -9,7 +9,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 ### [2021](#2021-table): 6
 ### [2022](#2022-table): 27
 ### [2023](#2023-table): 19
-### [2024](#2024-table): 0
+### [2024](#2024-table): 1
 
 ## Ongoing (progress)
 1. The Road to Serfdom - Friedrich Hayek
@@ -19,6 +19,10 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 <a name="2024-table"></a>
 
 ### 2024
+
+| #  | Title                                                                                   | Author                               | Date       |
+|----|-----------------------------------------------------------------------------------------|--------------------------------------|------------|
+| 1  | Trend Following                   | Michael Covel                                | 1.6.2024   |
 
 <a name="2023-table"></a>
 
