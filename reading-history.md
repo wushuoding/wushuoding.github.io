@@ -9,12 +9,10 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 ### [2021](#2021-table): 6
 ### [2022](#2022-table): 27
 ### [2023](#2023-table): 19
-### [2024](#2024-table): 1
+### [2024](#2024-table): 2
 
 ## Ongoing (progress)
-1. The Road to Serfdom - Friedrich Hayek
-2. The Dollar Trap - Eswar Prasad
-3. Systematic Investing in Credit - Lev Dynkin, Arik Ben Dor, Jay Hyman, Simon Polbennikov, Albert Desclee
+
 
 <a name="2024-table"></a>
 
@@ -23,6 +21,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 | #  | Title                                                                                   | Author                               | Date       |
 |----|-----------------------------------------------------------------------------------------|--------------------------------------|------------|
 | 1  | Trend Following                   | Michael Covel                                | 1.6.2024   |
+| 2  | The Road to Serfdom                   | Friedrich A. Hayek                        | 2.7.2024   |
 
 <a name="2023-table"></a>
 
