@@ -22,6 +22,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 |----|-----------------------------------------------------------------------------------------|--------------------------------------|------------|
 | 1  | Trend Following                   | Michael Covel                                | 1.6.2024   |
 | 2  | The Road to Serfdom                   | Friedrich A. Hayek                        | 2.7.2024   |
+| 3  | Good to Great                 | Jim Collins                       | 2.21.2024   |
 
 <a name="2023-table"></a>
 
