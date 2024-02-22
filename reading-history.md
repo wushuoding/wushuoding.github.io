@@ -9,7 +9,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 ### [2021](#2021-table): 6
 ### [2022](#2022-table): 27
 ### [2023](#2023-table): 19
-### [2024](#2024-table): 2
+### [2024](#2024-table): 3
 
 ## Ongoing (progress)
 
