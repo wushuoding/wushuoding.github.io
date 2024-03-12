@@ -9,7 +9,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 ### [2021](#2021-table): 6
 ### [2022](#2022-table): 27
 ### [2023](#2023-table): 19
-### [2024](#2024-table): 3
+### [2024](#2024-table): 5
 
 ## Ongoing (progress)
 
@@ -24,6 +24,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 | 2  | The Road to Serfdom                   | Friedrich A. Hayek                        | 2.7.2024   |
 | 3  | Good to Great                 | Jim Collins                       | 2.21.2024   |
 | 4  | Mechanical Trading System              | Richard Weissman                       | 3.6.2024   |
+| 5  | More Money Than God              | Sebastian Mallaby                       | 3.11.2024   |
 
 <a name="2023-table"></a>
 
