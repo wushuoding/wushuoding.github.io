@@ -27,6 +27,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 | 5  | More Money Than God              | Sebastian Mallaby                       | 3.11.2024   |
 | 6  | Bloomberg              | Michael Bloomberg                    | 5.16.2024   |
 | 7  | Solar Power Finance           | Jenny Chase                   | 5.20.2024   |
+| 8  | Cobalt Red           | Siddharth Kara                 | 6.6.2024   |
 
 <a name="2023-table"></a>
 
