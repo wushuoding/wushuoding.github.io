@@ -9,9 +9,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 ### [2021](#2021-table): 6
 ### [2022](#2022-table): 27
 ### [2023](#2023-table): 19
-### [2024](#2024-table): 5
-
-## Ongoing (progress)
+### [2024](#2024-table): 8
 
 
 <a name="2024-table"></a>
@@ -28,6 +26,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 | 6  | Bloomberg              | Michael Bloomberg                    | 5.16.2024   |
 | 7  | Solar Power Finance           | Jenny Chase                   | 5.20.2024   |
 | 8  | Cobalt Red           | Siddharth Kara                 | 6.6.2024   |
+| 9  | Systematic Investing in Credit           | Ben Dor, Desclée, Dynkin, Hyman, Polbennikov    | 6.18.2024   |
 
 <a name="2023-table"></a>
 
