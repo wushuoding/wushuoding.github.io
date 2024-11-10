@@ -28,6 +28,9 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 | 8  | Cobalt Red           | Siddharth Kara                 | 6.6.2024   |
 | 9  | Systematic Investing in Credit           | Ben Dor, Desclée, Dynkin, Hyman, Polbennikov    | 6.18.2024   |
 | 10  | Fundamentals of Credit and Credit Analysis  | Arnold Ziegel    | 8.19.2024   |
+| 11  | Default  | Gregory Makoff   | 10.31.2024   |
+| 12  | A Man for All Market  | Ed Thorp   | 11.10.2024   |
+
 
 <a name="2023-table"></a>
 
