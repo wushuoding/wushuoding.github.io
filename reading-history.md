@@ -9,7 +9,18 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 ### [2021](#2021-table): 6
 ### [2022](#2022-table): 27
 ### [2023](#2023-table): 19
-### [2024](#2024-table): 8
+### [2024](#2024-table): 12
+### [2025](#2025-table): 2
+
+<a name="2025-table"></a>
+
+### 2025
+
+| #  | Title                                                                        | Author                               | Date       |
+|----|------------------------------------------------------------------------------|--------------------------------------|------------|
+| 1  | Double Entry              | Jane Gleeson-White                                | 1.5.2024   |
+| 2  | Greay Matters              | Theodore H Schwartz                                | 1.25.2024   |
+
 
 
 <a name="2024-table"></a>
