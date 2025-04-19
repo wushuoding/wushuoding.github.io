@@ -20,6 +20,10 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 |----|------------------------------------------------------------------------------|--------------------------------------|------------|
 | 1  | Double Entry              | Jane Gleeson-White                                | 1.5.2024   |
 | 2  | Greay Matters              | Theodore H Schwartz                                | 1.25.2024   |
+| 3  | Making Sense of Chaos              | J Doyne Farmer            | Feb? 2025   |
+| 4  | Geopolitical Alpha              | Marko Papic            | March? 2025   |
+| 5  | Credit Investor's Handbook              | Michael Gatto            | 4.19.2025   |
+
 
 
 
