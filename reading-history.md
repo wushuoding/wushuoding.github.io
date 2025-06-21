@@ -10,7 +10,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 ### [2022](#2022-table): 27
 ### [2023](#2023-table): 19
 ### [2024](#2024-table): 12
-### [2025](#2025-table): 6
+### [2025](#2025-table): 7
 
 <a name="2025-table"></a>
 
@@ -24,6 +24,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 | 4  | Geopolitical Alpha              | Marko Papic            | March? 2025   |
 | 5  | Credit Investor's Handbook              | Michael Gatto            | 4.19.2025   |
 | 6  | Breakout Nations             | Ruchir Sharma           | 5.19.2025   |
+| 7  | Zero to One             | Peter Thiel          | 6.19.2025   |
 
 
 
