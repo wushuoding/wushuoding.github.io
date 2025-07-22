@@ -10,7 +10,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 ### [2022](#2022-table): 27
 ### [2023](#2023-table): 19
 ### [2024](#2024-table): 12
-### [2025](#2025-table): 7
+### [2025](#2025-table): 8
 
 <a name="2025-table"></a>
 
@@ -18,13 +18,14 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 
 | #  | Title                                                                        | Author                               | Date       |
 |----|------------------------------------------------------------------------------|--------------------------------------|------------|
-| 1  | Double Entry              | Jane Gleeson-White                                | 1.5.2024   |
-| 2  | Greay Matters              | Theodore H Schwartz                                | 1.25.2024   |
+| 1  | Double Entry              | Jane Gleeson-White                 | 1.5.2024   |
+| 2  | Greay Matters              | Theodore H Schwartz                 | 1.25.2024   |
 | 3  | Making Sense of Chaos              | J Doyne Farmer            | Feb? 2025   |
 | 4  | Geopolitical Alpha              | Marko Papic            | March? 2025   |
 | 5  | Credit Investor's Handbook              | Michael Gatto            | 4.19.2025   |
 | 6  | Breakout Nations             | Ruchir Sharma           | 5.19.2025   |
 | 7  | Zero to One             | Peter Thiel          | 6.19.2025   |
+| 8  | How Countries Go Broke            | Ray Dalio          | 7.21.2025   |
 
 
 
