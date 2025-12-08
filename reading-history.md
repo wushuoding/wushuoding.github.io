@@ -28,6 +28,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 | 8  | How Countries Go Broke            | Ray Dalio          | 7.21.2025   |
 | 9  | The Rise and Fall of Nations           | Ruchir Sharma      | 10.18.2025   |
 | 10  | Blood and Silk         | Michael R. J. Vatikiotis      | 10.19.2025   |
+| 11  | Convertible Arbitrage        | Nick Calamos      | 12.7.2025   |
 
 
 
