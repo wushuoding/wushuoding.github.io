@@ -10,7 +10,7 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 ### [2022](#2022-table): 27
 ### [2023](#2023-table): 19
 ### [2024](#2024-table): 12
-### [2025](#2025-table): 8
+### [2025](#2025-table): 11
 
 <a name="2025-table"></a>
 
