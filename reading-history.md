@@ -11,6 +11,15 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 ### [2023](#2023-table): 19
 ### [2024](#2024-table): 12
 ### [2025](#2025-table): 11
+### [2026](#2026-table): 1
+
+<a name="2026-table"></a>
+
+### 2026
+
+| #  | Title                                                                        | Author                               | Date       |
+|----|------------------------------------------------------------------------------|--------------------------------------|------------|
+| 1  | Ludwig Wittgenstein: The Duty of Genius              | Ray Monk                 | 9.3.2026   |
 
 <a name="2025-table"></a>
 
@@ -18,8 +27,8 @@ The hyperlinks below (title *italicized*) leads to my reading notes stored on On
 
 | #  | Title                                                                        | Author                               | Date       |
 |----|------------------------------------------------------------------------------|--------------------------------------|------------|
-| 1  | Double Entry              | Jane Gleeson-White                 | 1.5.2024   |
-| 2  | Greay Matters              | Theodore H Schwartz                 | 1.25.2024   |
+| 1  | Double Entry              | Jane Gleeson-White                 | 1.5.2025   |
+| 2  | Greay Matters              | Theodore H Schwartz                 | 1.25.2025   |
 | 3  | Making Sense of Chaos              | J Doyne Farmer            | Feb? 2025   |
 | 4  | Geopolitical Alpha              | Marko Papic            | March? 2025   |
 | 5  | Credit Investor's Handbook              | Michael Gatto            | 4.19.2025   |
